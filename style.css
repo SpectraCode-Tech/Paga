@@ -207,7 +207,7 @@ nav .fa-solid{
     display: flex;
     flex-direction: column;
     background-color: var(--secondary-color);
-    width: 70%;
+    width: 80%;
     padding: 0 0 50px 70px;
     border-radius: 25px;
 }
@@ -559,7 +559,7 @@ margin-bottom: 20px;
 }
 .orange-bg{
     padding: 20px;
-    height: 70vh;
+    /* height: 70vh; */
     align-items: center;
 }
 .orange-bg span:first-child{
@@ -607,14 +607,15 @@ margin-bottom: 20px;
 }
 .small-first-image{
     position: absolute;
+    /* width: 50px; */
 }
 .small-second-img{
     position: absolute;
-    top: 20px;
+    top: 0px;
 }
 .small-third-img{
     position: absolute;
-    top: 130px;
+    top: 50px;
     left: 50px;
 }
 .comment{
